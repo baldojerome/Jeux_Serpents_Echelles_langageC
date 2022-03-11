@@ -1,4 +1,10 @@
 # Jeux_Serpents_Echelles_langageC
+![Mini-projet-Echelles-et-serpents--1](https://user-images.githubusercontent.com/99471537/157895673-652f579f-9f33-478d-bf7e-eef6e9645d29.jpg)
+
+
+
+
+
 
 PREREQUIS
 
